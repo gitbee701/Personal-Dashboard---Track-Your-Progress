@@ -26,7 +26,10 @@ A full-stack productivity application that allows users to track their daily pro
 
 ## 📸 Screenshots
 
-> Coming Soon... *(Include dashboard, check-in form, dark mode, and achievement view)*
+![Screenshot 2025-06-17 165442](https://github.com/user-attachments/assets/b4257a08-0e6c-43bb-a09b-b11aefddd47c)
+
+![Screenshot 2025-06-17 165456](https://github.com/user-attachments/assets/6fe35952-6be5-4bfe-a1bf-0d655846d3cc)
+
 
 ---
 
